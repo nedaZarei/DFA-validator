@@ -1,0 +1,282 @@
+13
+2
+a b
+4
+q0 q1 q2 q3
+8
+q0 a q2
+q0 b q1
+q1 a q3
+q1 b q0
+q2 a q0
+q2 b q3
+q3 a q1
+q3 b q2
+q0
+1
+q3
+5
+baba
+ab
+abbbab
+bababa
+aaaaba
+
+2
+a b
+4
+q0 q1 q2 q3
+8
+q0 a q2
+q0 b q1
+q1 a q3
+q1 b q0
+q2 a q0
+q2 b q3
+q3 a q1
+q3 b q2
+q0
+2
+q0 q2
+9
+baba
+ab
+abbbab
+bababa
+aaaaba
+bbbb 
+bbbbab
+aa
+a
+
+2
+a b
+2
+q0 q1
+4
+q0 a q0
+q0 b q1
+q1 a q1
+q1 b q0
+q0
+2
+q0 q1
+4
+ab
+ababbaba
+bababba
+ba
+
+2 
+a b
+5
+q0 q1 q2 q3 q4 q5
+8
+q0 a q1
+q0 b q3
+q1 a q1
+q1 b q2
+q2 a q2
+q3 a q4
+q3 b q3
+q4 b q4
+q0
+2
+q2 q4
+6
+aaba
+aaaabaaa
+aaaaabba
+bbab
+bbbbabbb
+baab
+
+2
+a b
+4
+00 01 10 11
+8
+00 a 10 
+00 b 01
+01 a 11
+01 b 00
+10 a 00
+10 b 11
+11 a 01
+11 b 10
+00
+1
+11
+5
+aba
+abbaba
+bbbaaa
+babab
+ba
+
+2
+a b
+3 
+q0 q1 q2
+4
+q0 b q1
+q1 a q2
+q2 a q2
+q2 b q2
+q0
+1
+q2
+6
+bba
+ba
+aba
+aabba
+ab
+aab
+
+2
+0 1
+4
+q0 q1 q2 q3
+8
+q0 0 q1
+q0 1 q3
+q1 0 q2
+q1 1 q1
+q2 0 q2
+q2 1 q1
+q3 0 q3
+q3 1 q3
+q0
+1
+q2
+6
+00
+010
+01010
+01101
+0101
+000
+
+2
+a b
+4
+0 1 2 3
+7
+0 a 1
+0 b 0
+1 a 2
+1 b 1
+2 a 3
+2 b 2
+3 b 3
+0
+4
+0 1 2 3
+4
+aab
+aaab
+aaaa
+baba
+
+2
+a b
+6
+00 01 10 11 20 21
+12
+00 a 10
+00 b 01
+01 a 11
+01 b 00
+10 a 20
+10 b 11
+11 a 21
+11 b 10
+20 a 00
+20 b 21
+21 a 01
+21 b 20
+00
+2
+10 20
+5
+aaab
+abab
+abba
+aaabab
+aba
+
+2
+a b
+2
+q0 q1
+3
+q0 a q0
+q0 b q1
+q1 a q1
+q0
+1
+q1
+6
+aab
+abab
+aba
+aaaaab
+baa
+bab
+
+2
+a b
+3
+q0 q1 q2
+5 
+q0 a q0
+q0 b q1
+q1 a q1
+q1 b q2
+q2 a q2
+q0
+1
+q2
+5
+abab
+aabbb
+abaa
+ababb
+aaabaab
+
+2 
+a b
+2
+q0 q1
+4
+q0 a q0
+q0 b q1
+q1 a q1
+q1 b q0
+q0
+1 
+q0
+5
+a
+aab
+bb
+bbbb
+aaa
+
+2
+a b
+2 
+q0 q1
+3
+q0 a q0
+q0 b q1
+q1 a q1
+q0
+1
+q1
+4
+aab
+ba
+bb
+aabaa
